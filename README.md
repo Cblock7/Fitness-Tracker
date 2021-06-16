@@ -18,6 +18,9 @@ In order to install required dependencies, run the following command:
 ## Usage 
 Visit the live link to experience the application! 
 
+![](/assets/img/SS1.JPG)
+![](/assets/img/SS2.JPG)
+
 ## License 
 None 
 
